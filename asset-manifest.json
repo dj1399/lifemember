@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/lifemember/static/css/main.3de043f8.chunk.css",
+    "main.js": "/lifemember/static/js/main.7aa3efe3.chunk.js",
+    "main.js.map": "/lifemember/static/js/main.7aa3efe3.chunk.js.map",
+    "runtime-main.js": "/lifemember/static/js/runtime-main.d668cb5c.js",
+    "runtime-main.js.map": "/lifemember/static/js/runtime-main.d668cb5c.js.map",
+    "static/js/2.90e66d31.chunk.js": "/lifemember/static/js/2.90e66d31.chunk.js",
+    "static/js/2.90e66d31.chunk.js.map": "/lifemember/static/js/2.90e66d31.chunk.js.map",
+    "static/js/3.971484e9.chunk.js": "/lifemember/static/js/3.971484e9.chunk.js",
+    "static/js/3.971484e9.chunk.js.map": "/lifemember/static/js/3.971484e9.chunk.js.map",
+    "index.html": "/lifemember/index.html",
+    "static/css/main.3de043f8.chunk.css.map": "/lifemember/static/css/main.3de043f8.chunk.css.map",
+    "static/js/2.90e66d31.chunk.js.LICENSE.txt": "/lifemember/static/js/2.90e66d31.chunk.js.LICENSE.txt",
+    "static/media/Arrow 1.084e18e7.svg": "/lifemember/static/media/Arrow 1.084e18e7.svg",
+    "static/media/Search.css": "/lifemember/static/media/Wave.865adca9.svg",
+    "static/media/logo.6ce24c58.svg": "/lifemember/static/media/logo.6ce24c58.svg",
+    "static/media/pic.bd7e164a.svg": "/lifemember/static/media/pic.bd7e164a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d668cb5c.js",
+    "static/js/2.90e66d31.chunk.js",
+    "static/css/main.3de043f8.chunk.css",
+    "static/js/main.7aa3efe3.chunk.js"
+  ]
+}
